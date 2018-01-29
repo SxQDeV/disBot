@@ -17,7 +17,7 @@ https://github.com/SxQDeV/disBot
 
 "Branch" bölümünden ilgili video için kodları görebilirsiniz.
 Örneğin; 
-Bölüm 1 için "Branch > master"
-Bölüm 2 için "Branch > Bölüm-2"
-Bölüm 3 için "Branch > Bölüm-3"
+Bölüm 1 için "Branch > master",
+Bölüm 2 için "Branch > Bölüm-2",
+Bölüm 3 için "Branch > Bölüm-3",
 ...
