@@ -10,4 +10,4 @@ bot.on('message',msg => {
 });
 
 
-bot.login('NDAxNDU2OTQ0Mjg1NjE0MDgw.DU5ApQ.cQ95aPtFpzkNhnSzBL_HV31aid8');
+bot.login('token');
